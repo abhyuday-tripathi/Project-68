@@ -1,0 +1,63 @@
+.marquee_Div marquee {
+	margin-top: 0px;
+	color: white;
+	background-color: black;
+}
+
+#OurVision {
+	height: 300px;
+	color: white;
+	background-color: #343a40;
+}
+
+#OurVision p {
+	margin-top: 50px;
+	margin-left: 20px;
+	font-size: 30px;
+}
+
+#OurVision h1 {
+	text-align: center;
+}
+
+#Affiliation {
+	height: 450px;
+	color: white;
+	background-color: #343a40;
+}
+
+#Affiliation p {
+	margin-top: 50px;
+	margin-left: 20px;
+	font-size: 30px;
+}
+
+#Affiliation h1{
+	text-align: center;
+}
+
+#Founder {
+	height: 450px;
+	color: white;
+	background-color: #343a40;
+}
+
+#Founder p {
+	margin-top: 50px;
+	margin-left: 20px;
+	font-size: 30px;
+}
+
+#Founder h1{
+	text-align: center;
+}
+
+h3{
+	margin-top: 20px;
+	text-align: center;
+}
+
+.form-check{
+	margin-top: 50px;
+	margin-left: 50%;
+}
